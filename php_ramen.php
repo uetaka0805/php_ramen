@@ -8,7 +8,7 @@
   
   <body>
   <h1>ラーメン店アンケート</h1>
-  <h3><span style = "color: #ff0000">※</span>は必須項目です</h3>
+  <h3><span>※</span>は必須項目です</h3>
   <form action="process_form.php" method="post">
   	<p>
   		<label for ="your_name">氏名<span style = "color: #ff0000">※</span>：</label>
